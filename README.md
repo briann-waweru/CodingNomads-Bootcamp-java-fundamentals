@@ -1,7 +1,8 @@
 # CodingNomads Java Fundamentals
 
 This project contains a variety of textbook examples and labs focused on Java labs_examples.fundamentals.
-
+## Commitment and Encouragement
+Brian if you truly focus and give your best you will soon become a great Software engineer.
 ## Getting Started
 
 To get started with this project please follow these instructions:
