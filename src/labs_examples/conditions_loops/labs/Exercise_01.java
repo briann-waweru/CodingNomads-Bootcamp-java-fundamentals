@@ -29,7 +29,7 @@ public class Exercise_01 {
         else
             System.out.println("The number " + number + " is odd.");
 
-        //System.out.println(number % 2
+
 
 
     }
