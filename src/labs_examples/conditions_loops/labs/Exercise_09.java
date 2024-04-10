@@ -8,4 +8,32 @@ package labs_examples.conditions_loops.labs;
  */
 
 public class Exercise_09 {
+
+    public static void main(String[] args) {
+
+        int i = 0;
+
+        while (i < 10) {
+            System.out.println("i = " + i);
+            i++;
+            if (i == 5) {
+                break;
+            }
+        }
+
+        int count = 0;
+
+        while (count < 50) {
+
+            System.out.println("count = " + count);
+            count++;
+
+            if (count == 43){
+                break;
+            }
+        }
+
+
+
+    }
 }
