@@ -24,6 +24,10 @@ public class Exercise_02 {
     public static void main(String[] args) {
 
         // write code here
+        double num = 3.14;
+        int num2 = (int) num;
+        System.out.println(num2);
+
 
     }
 }
