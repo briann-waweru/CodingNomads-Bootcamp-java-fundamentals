@@ -17,6 +17,14 @@ public class Exercise_01 {
     public static void main(String[] args) {
 
         // write code here
+        int num = 10;
+        double numDouble = 3.14;
+        float numFloat = 3.14f;
+        char letter = 'a';
+        System.out.println(num);
+        System.out.println(numDouble);
+        System.out.println(numFloat);
+        System.out.println(letter);
 
     }
 }
