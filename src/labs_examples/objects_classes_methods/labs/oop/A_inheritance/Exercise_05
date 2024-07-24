@@ -2,8 +2,7 @@
 Without running the code below, please tell me what will print. Why?
 
 
---> The output is "Child called" because method calls are resolved at runtime based on the actual object's type,
-so the doSomething method of the Child class is invoked.
+--> The output is "Parent called, Child called" because the superclass constructor is called before the subclass constructor during object instantiation.
 
 
 
