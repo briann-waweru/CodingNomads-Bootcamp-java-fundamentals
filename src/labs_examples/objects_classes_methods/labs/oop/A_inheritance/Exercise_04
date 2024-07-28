@@ -1,6 +1,8 @@
 
 Without running the code below, please tell me what it will print.
 
+Answer ->> The code will print "Child called" because the doSomething method in the Child class overrides the one in the Parent class,
+and dynamic method dispatch calls the overridden method.
 
 
 public class InheritanceTest
